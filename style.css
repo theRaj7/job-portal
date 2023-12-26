@@ -66,7 +66,7 @@ nav{
 
 
 .top-section{
-  background-image: url(/Images/Man\ talking.webp);
+  background-image: url(Man\ talking.webp);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -148,7 +148,7 @@ h1{
     border-radius: 4px;
     font-size: 16px;
     background-color: white;
-    background-image: url(/Images/profile.png);
+    background-image: url(profile.png);
     background-position: 8px; 
     background-repeat: no-repeat;
     padding: 12px 20px 12px 40px;
@@ -167,7 +167,7 @@ h1{
     border-radius: 4px;
     font-size: 16px;
     background-color: white;
-    background-image: url(/Images/location.png);
+    background-image: url(location.png);
     background-position: 8px; 
     background-repeat: no-repeat;
     padding: 12px 20px 12px 40px;
